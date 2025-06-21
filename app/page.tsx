@@ -1,9 +1,9 @@
-import Image from "next/image";
+
 
 export default function Home() {
   return (
     <>
-       <h1>Say hello man</h1>
+       <h1>Say hello manb</h1>
     </>
   );
 }
